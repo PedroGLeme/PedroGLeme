@@ -8,7 +8,7 @@ I have been studying programming since 2023, where I started with simple C codes
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [lemepedro2014@gmail.com](mailto:lemepedro2014@gmail.com)
-* 🧠  I'm learning C++, embedded systems & data filtes / EKF
+* 🧠  I'm learning C++, embedded systems & data filtes / EKF & french
 
 ### Skills
 
